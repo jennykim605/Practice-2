@@ -1,4 +1,5 @@
-streamlit>=1.49.0
+streamlit==1.39.0
 pypdf==5.1.0
-reportlab>=4.4.0
-pillow==10.4.0
+reportlab==4.2.0
+typing_extensions>=4.0
+pillow>=10.4.0
